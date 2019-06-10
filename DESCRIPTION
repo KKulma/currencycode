@@ -4,9 +4,9 @@ Title: Lists countries and relevant currencies with ISO codes
 Version: 0.1.0
 Author: Kasia Kulma
 Maintainer: The package maintainer <katarzyna.kulma@gmail.com>
-Description: The package provides data with country names, their ISO codes and
-    and their currencies. For generating the data it uses `countrycode` package ([GitHub reository](https://github.com/vincentarelbundock/countrycode)).
-
+Description: The package provides data with country names, their ISO codes and and their currencies. For generating the data it uses `countrycode` package ([GitHub reository](https://github.com/vincentarelbundock/countrycode)).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 6.1.1
