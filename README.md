@@ -8,7 +8,8 @@
 <!-- badges: end -->
 
 This package provides a dataset with country and currency names, as well
-as ISO codes.
+as ISO codes. It was created using `ISOcodes` package available on
+[CRAN](https://github.com/cran/ISOcodes).
 
 ## Installation
 
