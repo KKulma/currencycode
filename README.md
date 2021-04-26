@@ -4,12 +4,15 @@
 # currencycode
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 This package provides a dataset with country and currency names, as well
 as ISO codes. It was created using `ISOcodes` package available on
-[CRAN](https://github.com/cran/ISOcodes).
+[CRAN](https://github.com/cran/ISOcodes), and adds as exceptions the
+countries using the Euro
+[officially](https://europa.eu/european-union/about-eu/euro/which-countries-use-euro_en)
+and via various formal (Andorra, Liechtenstein, San Marino, Vatican) or
+informal agreements (Montenegro, Kosovo.)
 
 ## Installation
 
